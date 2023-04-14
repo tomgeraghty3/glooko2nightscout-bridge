@@ -4,6 +4,7 @@
   "description": "Fetches data from Glooko's webservice and puts it in Nightscout. This code is heavily based on bewest's https://github.com/nightscout/share2nightscout-bridge",
   "main": "index.js",
   "scripts": {
+    "build": "npm install pubnub",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jeremy Pollock",
