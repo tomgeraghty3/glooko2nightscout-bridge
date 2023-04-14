@@ -23,7 +23,7 @@
 var request = require('request');
 var qs = require('querystring');
 var crypto = require('crypto');
-var PubNub = require('pubnub');
+//var PubNub = require('pubnub');
 var moment = require('moment-timezone');
 
 // Defaults
